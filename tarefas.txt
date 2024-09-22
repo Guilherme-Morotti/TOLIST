@@ -1,0 +1,4 @@
+Titulo: lavar roupa, Descrição: treinar
+Titulo: Estudar, Descrição: Abastecer
+Titulo: lavar carro, Descrição: Jogar bola
+Titulo: Bater continencia Descrição: Compras mercado
